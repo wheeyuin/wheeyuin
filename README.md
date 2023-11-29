@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
-**wheeyuin/wheeyuin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+蘇于涵 YU HAN SU
+
+輔仁大學金企系 409411533
 
 Here are some ideas to get you started:
 
